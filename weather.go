@@ -3,7 +3,6 @@ package weather
 import (
     "bytes"
     "encoding/xml"
-    "fmt"
     "io/ioutil"
     "net/http"
     "os"
